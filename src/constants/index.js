@@ -115,19 +115,19 @@ import {
   ];
   
   const experiences = [
-    {
-      title: "Mobile Application Developer",
-      company_name: "Strarts",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Mar 2023 - Present",
-      points: [
-        "Developing and researching about solutions for real world problems with existing technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Main objective is to develop an unique solution which is able to withstand for long decades.",
-        "Participating in progress meetings, code reviews and providing/receiving constructive feedback to/from other developers.",
-      ],
-    },
+    // {
+    //   title: "Mobile Application Developer",
+    //   company_name: "Strarts",
+    //   icon: meta,
+    //   iconBg: "#E6DEDD",
+    //   date: "Mar 2023 - Present",
+    //   points: [
+    //     "Developing and researching about solutions for real world problems with existing technologies.",
+    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //     "Main objective is to develop an unique solution which is able to withstand for long decades.",
+    //     "Participating in progress meetings, code reviews and providing/receiving constructive feedback to/from other developers.",
+    //   ],
+    // },
     {
       title: "Android Developer",
       company_name: "Blunav Technologies Pvt Ltd",
